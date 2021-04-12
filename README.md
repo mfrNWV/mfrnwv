@@ -2,10 +2,9 @@
 
 #### I'm an engineering student full of curiosity when it comes to cyber security and telecommunications.
 ---
-<br />
+
 If you want to now more about me, you can check my [blog](https://mfrnwv.github.io/).
 
-<br />
 #### Get in touch!
 
 <!--
