@@ -9,6 +9,8 @@ I'm an engineering student full of curiosity when it comes to cyber security and
 <br />
 <br />
 <br />
+<br />
+<br />
 If you want to know more about me, you can check my [blog](https://mfrnwv.github.io/).
 
 ## Get in touch!
