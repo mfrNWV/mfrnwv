@@ -1,4 +1,4 @@
-# Hi there, I'm Mateus 👋
+## Hi there, I'm Mateus 👋
 
 <img align="right" alt="GIF" src="https://github.com/mfrNWV/mfrnwv/blob/main/tuxcat_anim.gif?raw=true" width="220" height="220" style="border-radius: 5px;"/>
 
