@@ -1,8 +1,12 @@
 ## Hi there, I'm Mateus 👋
 
-### I'm an engineering student full of curiosity when it comes to cyber security and telecommunications.
+#### I'm an engineering student full of curiosity when it comes to cyber security and telecommunications.
+---
+<br />
+If you want to now more about me, you can check my [blog](https://mfrnwv.github.io/).
 
 <br />
+#### Get in touch!
 
 <!--
 **mfrNWV/mfrnwv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
