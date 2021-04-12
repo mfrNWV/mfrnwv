@@ -1,6 +1,6 @@
 ## Hi there, I'm Mateus 👋
 
-<img align="right" alt="GIF" src="https://github.com/mfrNWV/mfrnwv/blob/main/tuxcat-icon-animated.gif?raw=true" width="200" height="177" bprder-radius="5px"/>
+<img align="right" alt="GIF" src="https://github.com/mfrNWV/mfrnwv/blob/main/tuxcat-icon-animated.gif?raw=true" width="200" height="177" style="border-radius: 5px;"/>
 
 I'm an engineering student full of curiosity when it comes to cyber security and telecommunications.
 <br />
