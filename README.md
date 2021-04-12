@@ -1,6 +1,6 @@
 ## Hi there, I'm Mateus 👋
 
-<div style="border-radius: 5px">
+<div style="border: 3px solid red;">
   <img align="right" alt="GIF" src="https://github.com/mfrNWV/mfrnwv/blob/main/tuxcat-icon-animated.gif?raw=true" width="200" height="177" style="border-radius: 5px;"/>
 </div>
 
